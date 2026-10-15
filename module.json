@@ -3,7 +3,7 @@
     "id": "dscryb",
     "title": "dScryb",
     "description": "dScryb provides Boxed Text—descriptive text of places, monsters, spells, and other observations—meant to be read aloud by GMs to players. It is set in the world of epic fantasy, like many of your favorite RPGs. Good boxed text shows its subject by describing the sensory experience. And it often sets the narrative tone, introduces the scene, or spotlights what is important.",
-    "version": "6.1.2",
+    "version": "6.1.3",
     "bugs": "https://github.com/dscryb/dscryb-foundryvtt-module-public/issues",
     "allowBugReporter": true,
     "manifestPlusVersion": "1.1.0",
@@ -72,7 +72,7 @@
     },
     "url": "https://github.com/dscryb/dscryb-foundryvtt-module-public",
     "manifest": "https://raw.githubusercontent.com/dscryb/dscryb-foundryvtt-module-public/main/module.json",
-    "download": "https://github.com/dscryb/dscryb-foundryvtt-module-public/releases/download/6.1.2/module.zip",
+    "download": "https://github.com/dscryb/dscryb-foundryvtt-module-public/releases/download/6.1.3/module.zip",
     "socket": true,
     "media": [
         {
